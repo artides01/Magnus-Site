@@ -1,2 +1,2 @@
-# Magnus-sit01
+# Magnus-Site
 Magnus Institute site
